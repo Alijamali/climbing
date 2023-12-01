@@ -26,6 +26,7 @@ class _WelcomePageState extends State<WelcomePage> {
             ),
             child: Container(
 
+              child: Text('asd'),
             ),
 
           );
